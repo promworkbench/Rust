@@ -1,10 +1,8 @@
 
 					<packages>
-						<package name="NewPackageIvy" version="6.14.5" os="all" url="NewPackageIvy/NewPackageIvy-6.14.5-all.zip" desc="New Package with Ivy" org="Eindhoven University of Technology" license="GPL" author="H.M.W. Verbeek" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png">
-				    	<dependency org="prom" name="ProM-Plugins" rev="latest" changing="true" transitive="true" />
-    	<dependency org="prom" name="BasicUtils" rev="latest" changing="true" transitive="true" />
-    	<dependency org="prom" name="Widgets" rev="latest" changing="true" transitive="true" />
-
-						</package>
+						<package name="Rust" version="6.15.2" os="win64" url="Rust/Rust-6.15.2-win64.zip" desc="Rust" org="RWTH Aachen" license="GPL" author="S.J.J. Leemans" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png" />
+						<package name="Rust" version="6.15.2" os="win32" url="Rust/Rust-6.15.2-win32.zip" desc="Rust" org="RWTH Aachen" license="GPL" author="S.J.J. Leemans" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png" />
+						<package name="Rust" version="6.15.2" os="lin64" url="Rust/Rust-6.15.2-lin64.zip" desc="Rust" org="RWTH Aachen" license="GPL" author="S.J.J. Leemans" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png" />
+						<package name="Rust" version="6.15.2" os="lin32" url="Rust/Rust-6.15.2-lin32.zip" desc="Rust" org="RWTH Aachen" license="GPL" author="S.J.J. Leemans" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png" />
 					</packages>
-				
+			
